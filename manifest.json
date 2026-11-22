@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "loader": 1,
+  "version": "0.8.0",
+  "runtime": {
+    "path": "runtime/game.7538c06f48acfe0f.js",
+    "sha256": "7538c06f48acfe0fce7159f0f6f12c9e3257389f7166ae716aa9cfdb0515f357",
+    "bytes": 1194691
+  },
+  "assets": {
+    "chibi-depths.png": {
+      "path": "assets/chibi-depths.2890a2ef8767d724.png",
+      "sha256": "2890a2ef8767d7247368969b7bc5ace06bb5860b568da0477371d3f5839f699a",
+      "bytes": 31405
+    },
+    "chibi-eterna.png": {
+      "path": "assets/chibi-eterna.d321baf3255e5079.png",
+      "sha256": "d321baf3255e5079c6953b2a246e14d61c0becca5097a7b012a787a4aaea9cdf",
+      "bytes": 64486
+    },
+    "chibi-hunter.png": {
+      "path": "assets/chibi-hunter.974bed1f3e993bfd.png",
+      "sha256": "974bed1f3e993bfd92b774486c325f533d9f9fcbdb8b59add1e9ff7f4ffd9b26",
+      "bytes": 243904
+    },
+    "chibi-merry.png": {
+      "path": "assets/chibi-merry.c2d33bba74e36daa.png",
+      "sha256": "c2d33bba74e36daa23bd3c8cfc1bfa4fc87e4b56a5a08b7bd78e3192217cb5ec",
+      "bytes": 196293
+    },
+    "chibi-riftfall.png": {
+      "path": "assets/chibi-riftfall.4db8da3ac6fbbd63.png",
+      "sha256": "4db8da3ac6fbbd636e56ffe3ec5703af42df45a3ae67e3896616051b70476642",
+      "bytes": 105199
+    },
+    "chibi-temerosa-finale.png": {
+      "path": "assets/chibi-temerosa-finale.4e6ffb433dd4148a.png",
+      "sha256": "4e6ffb433dd4148a9f9536a9a003321c2ecfd5c19b42ac0ecfac89dc38e19522",
+      "bytes": 153534
+    },
+    "chibi-temerosa.png": {
+      "path": "assets/chibi-temerosa.98ed0159791da26b.png",
+      "sha256": "98ed0159791da26b9e8476a69ee2eef5a9850d769f362bfa691c4b615135c8b2",
+      "bytes": 271158
+    },
+    "fishing-bobber.png": {
+      "path": "assets/fishing-bobber.45e4059c5f57eb90.png",
+      "sha256": "45e4059c5f57eb905f95fb1fb9d24fbcb10abdd9225104693f3f6fbd1acc7aa7",
+      "bytes": 26973
+    },
+    "fishing-hook.png": {
+      "path": "assets/fishing-hook.1569378d2d3c3b16.png",
+      "sha256": "1569378d2d3c3b168c0ad53ded2e39c528c5088ec2bfb8323eca7b090325c9a6",
+      "bytes": 25941
+    },
+    "hunter-creatures.png": {
+      "path": "assets/hunter-creatures.6cd9e9d5aba1ca5d.png",
+      "sha256": "6cd9e9d5aba1ca5db756f92285eef7079c71e8f70bbffb8a8c1fb130212686a5",
+      "bytes": 76675
+    },
+    "marine-icons.png": {
+      "path": "assets/marine-icons.ffff57941c099ee1.png",
+      "sha256": "ffff57941c099ee102b57f6a7842b7941f99ca140d206ec9ba958068e5f3d0a4",
+      "bytes": 790073
+    },
+    "marine-swimmers.png": {
+      "path": "assets/marine-swimmers.f182bf437aab1ec2.png",
+      "sha256": "f182bf437aab1ec2f4a7ade90e95cbf83ef31e94492c3ec343559676c4409160",
+      "bytes": 32332
+    },
+    "quest-complete.png": {
+      "path": "assets/quest-complete.4e4fae23bdf77168.png",
+      "sha256": "4e4fae23bdf77168f367c087bf697273f7b64ca927d04507e687499f1a97f836",
+      "bytes": 29750
+    }
+  }
+}
